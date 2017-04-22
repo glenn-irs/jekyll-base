@@ -17,4 +17,5 @@ image:
   feature: http://zucman.com/muse/assets/balance-by-vadim-stein.jpg
 ---
 
+That's all **I** have to say about *headers*, now it's just me doing my favorite thing, **typing samples!!** So typing in GitHub is fine... but not *better* than Ghost or Typora or MMDE.
 
