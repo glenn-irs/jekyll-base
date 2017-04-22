@@ -1,4 +1,12 @@
-HEADER FOR A *POST*
+---
+layout: page
+title: Header Samples
+permalink: /headers/
+---
+
+^^ HEADER FOR A **PAGE**
+
+vv HEADER FOR A **POST**
 
 ---
 layout: post
@@ -10,4 +18,3 @@ image:
 ---
 
 
-HEADER FOR A *PAGE*
