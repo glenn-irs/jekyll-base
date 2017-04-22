@@ -2,7 +2,7 @@
 title: Glenn's Jekyll Site
 email: glenn.zucman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Thanks 4 visiting Glenn's new Jekyll test site. It's mostly boring here. But something cool could happen! :)
+  Thanks 4 visiting my site. [Find me online!](/contact)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jekyll.zucman.com" # the base hostname & protocol for your site
 twitter_username: glenn_irs
