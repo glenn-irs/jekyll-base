@@ -43,3 +43,13 @@ There's 3 tools that seem to work pretty well on both Mac & Win, and have Spellc
 * Ghost - does preview images (but not ideal to upload 2 github, or course)
 
 (oh, and when it's in Github, the images do preview)
+
+## Favorites this minute
+So I guess these are my current favorite ways to type (M/W)
+
+1. Typora
+1. Ghost
+1. MMDE
+1. GitHub Editor
+
+They're all fine. Except no **spellcheck** in Github editor.
