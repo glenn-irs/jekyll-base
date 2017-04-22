@@ -27,3 +27,18 @@ I'm excited to see what all 3 can do.
 ![another dance photo](http://zucman.com/muse/assets/brittany-cavaco-of-wash-ballet-flowing-by-gene-schiavone-2017.jpg)
 *Image: Brittany Cavaco of Washington Ballet - **Flowing** by Gene Schiavone*
 
+This is a really simple, clean page. Just words and images. No twitter feeds, sidebar widgets, etc. It's a lot of what I like about Ghost. Editing **Markdown** here in *Github* really isn't bad at all. Or you could use a dual view editor on Win/Mac, like:
+
+**Win Markdown Editor**
+http://markdownpad.com
+
+**Mac Markdown Editor**
+http://macdown.uranusjr.com
+
+**Mac-Win-Lin Markdown Editor**
+https://typora.io
+
+
+
+![silly dance scene of a ballerina trying to wait tables](../_images/Johanna%20Sigurdardottir%20Missing%20the%20Cup%20by%20Jordan%20Matter-2016.jpg)
+*Johanna Sigurdartottir, **Missing the Cup** by Jordan Matter*
