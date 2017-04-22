@@ -7,7 +7,7 @@ categories: course docs
 
 <img src="http://beacharts.ca/wp-content/uploads/2016/05/Summer16-syllabus1.jpg" />
 
-<h2>CLASS OVERVIEW</h2>
+# Class Overview
 
 * May 23 - August 12
 * 100% online
@@ -15,11 +15,15 @@ categories: course docs
 * Textbook: The Internet
 * Materials: See weekly activity briefs for materials
 
-<strong>FROM GLENN:</strong>
+## From Glenn
 Each week we'll have 1 Activity to try, and 2 Videos to watch. The activity will be things like Drawing, Painting, and Photography. Each week we'll have an "Art Talk" video between 5 & 19 minutes long, and an "Artist of the Week" video between 3 & 8 minutes long.
 
-<h2>FROM YOU:</h2>
+## From You
 You'll do your work in 2 places:Your Own <a href="http://wordpress.com/" target="_blank">WordPress.com</a> website, and our class discussion space on <a href="https://beacharts.slack.com/" target="_blank">Slack.com</a>.
+
+WordPress is so 2016. Now **you** get to choose:
+
+<iframe src="https://docs.google.com/spreadsheets/d/1SPW3ZDCA-LDWq7ivRJssA9s8sRg1x-WdqqNYaou8IJY/pubhtml?widget=true&amp;headers=false" width="100%" height="940"></iframe>
 
 <strong>YOUR WEBSITE</strong>
 Each week you'll do <strong>2 blog posts</strong>, one a write up of your Activity experience, and the 2nd about our artist of the week where you'll take what you learned in the video and add some of your own internet research.
