@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Minimalist Markdown Editor test doc"
+title:  "Minimalist Markdown Editor & Typora test doc"
 date:   2017-04-22 9:00:00
 categories: tech
 image:
@@ -41,3 +41,5 @@ There's 3 tools that seem to work pretty well on both Mac & Win, and have Spellc
 * Typora - doesn't preview images
 * Minimalist Markdown Editor - doesn't preview images
 * Ghost - does preview images (but not ideal to upload 2 github, or course)
+
+(oh, and when it's in Github, the images do preview)
