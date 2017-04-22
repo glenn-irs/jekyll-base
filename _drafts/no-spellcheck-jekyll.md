@@ -4,7 +4,7 @@ title:  "No Spellcheck in Jekyll?"
 date:   2017-04-22 08:00:00
 categories: tech
 image:
-  feature: http://zucman.com/muse/assets/balance-by-vadim-stein.jpg
+  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/Laundry%20by%20Francesco%20De%20Laurentiis.jpg
 ---
 
 This is me typing in Jekyll. 
@@ -29,3 +29,6 @@ In most things, your browser, Chrome, Firefox, etc, will spellcheck your text. G
 Just as I was starting to get used to typing in GitHub/Markdown, it seems like I'll have to use an external editor and upload **.md** files instead of typing them here. And then just mod them here as needed. 
 
 > It's always something!
+
+![a ballerina in a laundromat](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/Laundry%20by%20Francesco%20De%20Laurentiis.jpg)
+*Laundry, by Francesco De Laurentiis*
