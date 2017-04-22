@@ -40,5 +40,8 @@ https://typora.io
 
 
 
-![silly dance scene of a ballerina trying to wait tables](https://github.com/glenn-irs/jekyll-base/blob/master/_images/Johanna%20Sigurdardottir%20Missing%20the%20Cup%20by%20Jordan%20Matter-2016.jpg)  
+![silly dance scene of a ballerina trying to wait tables](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/Johanna%20Sigurdardottir%20Missing%20the%20Cup%20by%20Jordan%20Matter-2016.jpg)
+
+
+
 *Johanna Sigurdartottir, **Missing the Cup** by Jordan Matter*
