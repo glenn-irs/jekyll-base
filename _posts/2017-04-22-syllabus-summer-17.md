@@ -8,11 +8,12 @@ categories: course docs
 <img src="http://beacharts.ca/wp-content/uploads/2016/05/Summer16-syllabus1.jpg" />
 
 <h2>CLASS OVERVIEW</h2>
-• May 23 - August 12
-• 100% online
-• No tests, quizzes or term papers.
-• Textbook: The Internet
-• Materials: See weekly activity briefs for materials
+
+* May 23 - August 12
+* 100% online
+* No tests, quizzes or term papers.
+* Textbook: The Internet
+* Materials: See weekly activity briefs for materials
 
 <strong>FROM GLENN:</strong>
 Each week we'll have 1 Activity to try, and 2 Videos to watch. The activity will be things like Drawing, Painting, and Photography. Each week we'll have an "Art Talk" video between 5 & 19 minutes long, and an "Artist of the Week" video between 3 & 8 minutes long.
@@ -27,9 +28,10 @@ Each week you'll do <strong>2 blog posts</strong>, one a write up of your Activi
 Each week you'll <strong>discuss 2 videos</strong> with your classmates on Slack. 3 comments on Artist OTW & 3 on Art Talk.
 
 <strong>WEEKLY SCHEDULE:</strong>
-• Week Starts on Monday
-• Due by Thursday Midnight: Slack Discussion (Artist OTW & Art Talk)
-• Due by Sunday Midnight: Blog Posts (Artist OTW & Activity)
+
+* Week Starts on Monday
+* Due by Thursday Midnight: Slack Discussion (Artist OTW & Art Talk)
+* Due by Sunday Midnight: Blog Posts (Artist OTW & Activity)
 
 I'll grade your work on Mondays and give you your weekly points not later than Noon Tuesday by private IM on Slack.
 
@@ -44,12 +46,10 @@ I'll grade your work on Mondays and give you your weekly points not later than N
 2. Automatic Drawing (Drawing 1)
 3. Graffiti Writing (Painting 1)
 4. Sketching (Drawing 2)
-
 5. Instagram (Mobile 1)
 6. Landscapes with a Corpse (Photo 1)
 7. Art Museum Visit (Museum 1)
 8. Art Care Package (Assemblage 1)
-
 9. Procedural Painting (Painting 2)
 10. Snapchat (Mobile 2)
 11. Fiber Art Wall Hanging (Sculpture 2)
@@ -84,19 +84,22 @@ So, for the 1st 4 weekly activities, we'll have <b>optional</b> meetups. You can
 
 
 Art 110: Introduction to the Visual Arts
-• Section 1: Class No.10330
-• May 23 - August 12
-• 100% Online Course
-• Instructor: Glenn Zucman
+
+* Section 1: Class No.10330
+* May 23 - August 12
+* 100% Online Course
+* Instructor: Glenn Zucman
 
 
 Office Hours: 
-• 24/7 on <a href="https://beacharts.slack.com/">beacharts.slack.com</a>
+
+* 24/7 on <a href="https://beacharts.slack.com/">beacharts.slack.com</a>
 
 
 Contact: 
-• 24/7 on <a href="https://beacharts.slack.com/">beacharts.slack.com</a>
-• If all else fails: glenn.zucman@csulb.edu
+
+* 24/7 on <a href="https://beacharts.slack.com/">beacharts.slack.com</a>
+* If all else fails: glenn.zucman@csulb.edu
 
 
 
@@ -200,8 +203,9 @@ Photos of what? For your Activities, document your process! For Artist Blog Post
 
 #### Post Names
 What is "good" post naming? 
-• <strong>Wk2 - Activity - Plaster Casting</strong>
-• <strong>Wk2 - Artist - Ana Mendieta</strong>
+
+* <strong>Wk2 - Activity - Plaster Casting</strong>
+* <strong>Wk2 - Artist - Ana Mendieta</strong>
 
 #### Analytic Writing
 3 & 4 are a little subjective. But the idea here is that one paragraph that only states what the activity was or bare basics of the interviews is kind of short and not really analytic. 3-4 paragraphs each of decent length where you talk about your Activity Process, or Interview Conversations, and definitely try to analyze the ideas, is great!
