@@ -1,3 +1,10 @@
+---
+layout: page
+title: Fun
+permalink: /fun/
+---
+
+
 What's the point if it's not fun?
 
 Am I right?
