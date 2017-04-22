@@ -10,3 +10,4 @@ github_username:  glenn-irs
 
 # Build settings
 markdown: kramdown
+theme: Polar Bear
