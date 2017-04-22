@@ -10,7 +10,7 @@ github_username:  glenn-irs
 
 # Build settings
 markdown: kramdown
-theme: polar-bear
-  disqus:
-    shortname: art490
+theme: minima
+disqus:
+  shortname: art490
     
