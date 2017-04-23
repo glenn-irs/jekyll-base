@@ -15,7 +15,7 @@ image:
 
 **When:** *Saturday 6 May '17, 9a - 1p*  
 
-**Where:** *Valley Blvd in New Taipei (San Gabriel)*  
+**Where:** *Valley Blvd in New Taipei (Rosemead - San Gabriel)*  
 
 **Schedule:**  
 
