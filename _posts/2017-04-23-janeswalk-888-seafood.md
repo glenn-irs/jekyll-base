@@ -23,7 +23,7 @@ image:
 
 * **9-10am** *Optional Dim Sum Breakfast @ 888 Seafood*
 * **10-11am** *Walk down Valley Blvd from 888 Seafood to Bake Code*
-* **11-Noon** *Optional afternoon tea, coffee, boba, & pastries & conversation @Bake Code*
+* **11-Noon** *Optional afternoon tea, coffee, boba, pastries & conversation @Bake Code*
 * **Noon-1pm** *Walk back on the other side of the street from Bake Code to 888 Seafood*
 
 Join in for all or any part of the walk you like. I'll carry a **"Jane's Walk"** sign!
