@@ -28,6 +28,10 @@ image:
 
 Join in for all or any part of the walk you like. I'll carry a **"Jane's Walk"** sign!
 
+* [About Jane's Walk](http://agentof.ch/aos/janes-walk-los-angeles-2017/)  
+* [Jane's Walks in Los Angeles](http://janeswalk.org/united-states/los-angeles/)  
+* [Jane's Walk LA on Facebook](https://www.facebook.com/janeswalkla/)
+
 
 
 ## Yen Li & Maggie 
