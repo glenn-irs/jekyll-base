@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Jane's Walk New Taipei"
+date:   2017-04-23 1:00:00
+categories: social practice
+image:
+  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/888-Seafood-Maggie-YenLi.jpg
+---
+
 >  The other side of the world is waiting for you… on the other side of Los Angeles!
 
 
