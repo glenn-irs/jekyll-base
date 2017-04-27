@@ -61,7 +61,7 @@ I'm not thrilled with the no spellcheck, but at least you can write in Typora wh
 ## Markdown Headspace
 It's weird that all the big php CMS' don't (natively) support Markdown: WordPress, Joomla, Drupal - *no gots!*
 
-Ghost is (awesome) native Markdown. But Ghost is nodeJS, so the PHP CMS' / PHP MySQL engines, hating on MD streak is unbroken. 
+Ghost is (awesome) native Markdown. But Ghost is nodeJS, so the PHP CMS' / PHP MySQL engines, hating-on-MD streak is unbroken. 
 
 By contrast, the Static / Flat web world seems to live on Markdown. Jekyll which powers this GitHub site, and a couple dozen others all seem to be native Markdown.
 
