@@ -53,3 +53,16 @@ So I guess these are my current favorite ways to type (M/W)
 1. GitHub Editor
 
 They're all fine. Except no **spellcheck** in Github editor.
+
+---
+
+I'm not thrilled with the no spellcheck, but at least you can write in Typora which is a nice experience, and then you can edit the files right here in GitHub Markdown, which **works** *nicely!*
+
+## Markdown Headspace
+It's weird that all the big php CMS' don't (natively) support Markdown: WordPress, Joomla, Drupal - *no gots!*
+
+Ghost is (awesome) native Markdown. But Ghost is nodeJS, so the PHP CMS' / PHP MySQL engines, hating on MD streak is unbroken. 
+
+By contrast, the Static / Flat web world seems to live on Markdown. Jekyll which powers this GitHub site, and a couple dozen others all seem to be native Markdown.
+
+> **Why** is Markdown so shunned in the PHP/CMS world, and so embraced in the Static/Flat world??
