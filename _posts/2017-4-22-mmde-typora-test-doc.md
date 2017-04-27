@@ -59,6 +59,7 @@ They're all fine. Except no **spellcheck** in Github editor.
 I'm not thrilled with the no spellcheck, but at least you can write in Typora which is a nice experience, and then you can edit the files right here in GitHub Markdown, which **works** *nicely!*
 
 <a id="md"> </a>
+
 ## Markdown Headspace  
 It's weird that all the big php CMS' don't (natively) support Markdown: WordPress, Joomla, Drupal - *no gots!*
 
