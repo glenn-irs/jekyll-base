@@ -76,3 +76,5 @@ Some Text
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+hahaha, I came to Jekyll / GitHub to complain about bad Markdown on Joomla... so of course... the MD here on Jekyll / GitHub is acting weird. It previews on GitHub just fine. But rendered on the web the last section doesn't seem to format. Almost as if it needs a text block, or something, underneath it. So, this is a text block!
