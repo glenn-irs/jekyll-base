@@ -68,3 +68,11 @@ Ghost is (awesome) native Markdown. But Ghost is nodeJS, so the PHP CMS' / PHP M
 By contrast, the Static / Flat web world seems to live on Markdown. Jekyll which powers this GitHub site, and a couple dozen others all seem to be native Markdown.
 
 > **Why** is Markdown so shunned in the PHP/CMS world, and so embraced in the Static/Flat world??
+
+# Heading 1
+## Heading 2
+### Heading 3
+Some Text
+#### Heading 4
+##### Heading 5
+###### Heading 6
