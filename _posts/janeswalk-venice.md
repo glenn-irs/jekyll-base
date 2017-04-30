@@ -77,40 +77,40 @@ Venice, CA 90291
 
 ![](../_images/venice/Jane-Venice-001.JPG)
 
-![](Jane-Venice-002.JPG)
+![](../_images/venice/Jane-Venice-002.JPG)
 
-![](Jane-Venice-003.JPG)
+![](../_images/venice/Jane-Venice-003.JPG)
 
-![](Jane-Venice-004.JPG)
+![](../_images/venice/Jane-Venice-004.JPG)
 
-![](Jane-Venice-005.JPG)
+![](../_images/venice/Jane-Venice-005.JPG)
 
-![](Jane-Venice-006.JPG)
+![](../_images/venice/Jane-Venice-006.JPG)
 
-![](Jane-Venice-007.JPG)
+![](../_images/venice/Jane-Venice-007.JPG)
 
-![](Jane-Venice-008.JPG)
+![](../_images/venice/Jane-Venice-008.JPG)
 
-![](Jane-Venice-009.JPG)
+![](../_images/venice/Jane-Venice-009.JPG)
 
-![](Jane-Venice-010.JPG)
+![](../_images/venice/Jane-Venice-010.JPG)
 
-![](Jane-Venice-011.JPG)
+![](../_images/venice/Jane-Venice-011.JPG)
 
-![](Jane-Venice-012.JPG)
+![](../_images/venice/Jane-Venice-012.JPG)
 
-![](Jane-Venice-013.JPG)
+![](../_images/venice/Jane-Venice-013.JPG)
 
-![](Jane-Venice-014.JPG)
+![](../_images/venice/Jane-Venice-014.JPG)
 
-![](Jane-Venice-015.JPG)
+![](../_images/venice/Jane-Venice-015.JPG)
 
-![](Jane-Venice-016.JPG)
+![](../_images/venice/Jane-Venice-016.JPG)
 
-![](Jane-Venice-017.JPG)
+![](../_images/venice/Jane-Venice-017.JPG)
 
-![](Jane-Venice-018.JPG)
+![](../_images/venice/Jane-Venice-018.JPG)
 
-![](Jane-Venice-019.JPG)
+![](../_images/venice/Jane-Venice-019.JPG)
 
-![](Jane-Venice-020.JPG)
+![](../_images/venice/Jane-Venice-020.JPG)
