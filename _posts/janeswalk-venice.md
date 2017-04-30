@@ -9,12 +9,19 @@ image:
 
 >  Italy meets Cony Island… only in Los Angeles!
 
-
-
+## Walking Venice
 **What:** *Jane's Walk, Venice Beach*     
 **When:** *Saturday 6 May '17*    
 **Where:** *Starts at LA Louvre Gallery*    
-**Starts:** *In the gallery at 10:00am*    
+**Starts:** *In the gallery at 10:00am*   
+
+## Jane's Walk LA Links
+
+* [About Jane's Walk](http://agentof.ch/aos/janes-walk-los-angeles-2017/)  
+* [Jane's Walks in Los Angeles](http://janeswalk.org/united-states/los-angeles/)  
+* [Jane's Walk LA on Facebook](https://www.facebook.com/janeswalkla/)
+* [Jane's Walk: New Taipei, CA](http://jekyll.zucman.com/social/practice/2017/04/23/janeswalk-888-seafood.html)
+* [Jane's Walk: Venice, CA](http://jekyll.zucman.com/social/practice/2017/04/30/janeswalk-venice.html)
 
 ## Share Your Stories
 
