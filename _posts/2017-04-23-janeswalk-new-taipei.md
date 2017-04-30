@@ -9,6 +9,9 @@ image:
 
 >  The other side of the world is waiting for you… on the other side of Los Angeles!
 
+![boba everywhere!](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/newtaipei/NewTaipei-004.JPG)
+*Boba everywhere!*
+
 
 ## Walking New Taipei
 **What:** *Jane's Walk, New Taipei, CA*     
@@ -88,9 +91,7 @@ http://bakecode.us/
 
 *Hawaii market*
 
-![boba everywhere!](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/newtaipei/NewTaipei-004.JPG)
 
-*Boba everywhere!*
 
 ## New Taipei is booming!
 
