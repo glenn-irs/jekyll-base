@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Jane's Walk Venice Beach, CA"
-date:   2017-04-29 20:00:00
+date:   2017-04-30 9:00:00
 categories: social-practice
 image:
-  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/Campaign%20for%20The%20Australian%20Ballet%2C%202015%20by%20Ren%20Pidgeon.jpg
+  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-015.JPG
 ---
 
 >  Italy meets Cony Island… only in Los Angeles!
