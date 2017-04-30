@@ -77,65 +77,67 @@ Venice, CA 90291
 310-399-0711  
 [rosecafevenice.com](http://rosecafevenice.com/)
 
-![](../_images/venice/Jane-Venice-001.JPG)
+
+
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-001.JPG)
 *LA Louvre*
 
-![](../_images/venice/Jane-Venice-002.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-002.JPG)
 *Venice Beach, CA*
 
-![](../_images/venice/Jane-Venice-003.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-003.JPG)
 *Muscle Beach*
 
-![](../_images/venice/Jane-Venice-004.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-004.JPG)
 *Basketball Courts*
 
-![](../_images/venice/Jane-Venice-005.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-005.JPG)
 *Lots of restrooms... but you might have to wait in line for a while...*
 
-![](../_images/venice/Jane-Venice-006.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-006.JPG)
 *You can't miss the large Mark di Suvero sculpture on the beach... but if you need any help finding it... just follow the girl with the tail...*
 
-![](../_images/venice/Jane-Venice-011.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-011.JPG)
 *My students [Rachel Palmer](https://rachelpalmerart.wordpress.com/2017/03/25/wk-9-art-experience-graffiti-painting/) and [Maria Romo](https://marijoseromo.wordpress.com/2017/03/26/week-9-art-experience-grafitti-writing/) with their 1st ever attempt at graffiti writing at the Venice Beach Art Walls.*
 
-![](../_images/venice/Jane-Venice-007.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-007.JPG)
 *Small World Books (I love the zine rack!)*
 
-![](../_images/venice/Jane-Venice-012.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-012.JPG)
 *Doing tricks at the skate park*
 
-![](../_images/venice/Jane-Venice-008.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-008.JPG)
 *Hangin w the homies*
 
-![](../_images/venice/Jane-Venice-009.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-009.JPG)
 *pick up your Snapchat Spectacles*
 
-![](../_images/venice/Jane-Venice-010.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-010.JPG)
 *It's important to **express yourself** at lunch!*
 
 
 
 
-![](../_images/venice/Jane-Venice-013.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-013.JPG)
 *We'll turn up **Paloma Av** and head up toward Main Street & Google Venice*
 
-![](../_images/venice/Jane-Venice-014.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-014.JPG)
 *Strolling up Paloma*
 
-![](../_images/venice/Jane-Venice-015.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-015.JPG)
 *House on Paloma*
 
-![](../_images/venice/Jane-Venice-016.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-016.JPG)
 *Paloma Ave, Venice, CA*
 
-![](../_images/venice/Jane-Venice-017.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-017.JPG)
 *Where Paloma meets Main, you'll find Frank Gehry's Google Venice building*
 
-![](../_images/venice/Jane-Venice-018.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-018.JPG)
 *Jonathan Borofsky's **Ballerina Clown** on the CVS at Main & Rose*
 
-![](../_images/venice/Jane-Venice-019.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-019.JPG)
 *The Rose*
 
-![](../_images/venice/Jane-Venice-020.JPG)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-020.JPG)
 *Hello Barcycle!*
