@@ -15,6 +15,10 @@ image:
 **Where:** *Starts at LA Louvre Gallery*    
 **Starts:** *In the gallery at 10:00am*   
 
+## Share Your Stories
+
+I'll be "leading" this walk, but I'm hardly an expert on this rich, historical LA treasure. Please chime in with any information and stories you can share.
+
 ## Jane's Walk LA Links
 
 * [About Jane's Walk](http://agentof.ch/aos/janes-walk-los-angeles-2017/)  
@@ -23,9 +27,7 @@ image:
 * [Jane's Walk: New Taipei, CA](http://jekyll.zucman.com/social/practice/2017/04/23/janeswalk-new-taipei.html)
 * [Jane's Walk: Venice, CA](http://jekyll.zucman.com/social/practice/2017/04/30/janeswalk-venice.html)
 
-## Share Your Stories
 
-I'll be "leading" this walk, but I'm hardly an expert on this rich, historical LA treasure. Please chime in with any information and stories you can share.
 
 ## LA Louvre 
 
