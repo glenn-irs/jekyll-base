@@ -10,16 +10,11 @@ image:
 >  The other side of the world is waiting for you… on the other side of Los Angeles!
 
 
-
-**What:** *Jane's Walk, New Taipei, CA*   
-
-**When:** *Saturday 6 May '17, 9a - 1p*  
-
-**Where:** *Valley Blvd in New Taipei (Rosemead - San Gabriel)*  
-
+## Walking New Taipei
+**What:** *Jane's Walk, New Taipei, CA*     
+**When:** *Saturday 6 May '17, 9a - 1p*    
+**Where:** *Valley Blvd in New Taipei (Rosemead - San Gabriel)*    
 **Schedule:**  
-
-
 
 * **9-10am** *Optional Dim Sum Breakfast @ 888 Seafood*
 * **10-11am** *Walk down Valley Blvd from 888 Seafood to Bake Code*
@@ -28,9 +23,13 @@ image:
 
 Join in for all or any part of the walk you like. I'll carry a **"Jane's Walk"** sign!
 
+## Jane's Walk LA Links
+
 * [About Jane's Walk](http://agentof.ch/aos/janes-walk-los-angeles-2017/)  
 * [Jane's Walks in Los Angeles](http://janeswalk.org/united-states/los-angeles/)  
 * [Jane's Walk LA on Facebook](https://www.facebook.com/janeswalkla/)
+* [Jane's Walk: New Taipei, CA](http://jekyll.zucman.com/social/practice/2017/04/23/janeswalk-888-seafood.html)
+* [Jane's Walk: Venice, CA](http://jekyll.zucman.com/social/practice/2017/04/30/janeswalk-venice.html)
 
 
 
