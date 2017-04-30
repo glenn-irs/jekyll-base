@@ -60,17 +60,13 @@ We'll finish our walk at *The Rose* and settle in for some optional coffee, snac
 
 
 ### LA Louvre Gallery
-
-45 North Venice Boulevard
-Venice, California 90291
-310.822.4955
-
+45 North Venice Boulevard  
+Venice, California 90291  
+310.822.4955  
 [lalouvre.com](http://www.lalouver.com/)
 
 ### The Rose
-
-220 Rose Ave, 
-Venice, CA 90291
-310-399-0711
-
+220 Rose Ave  
+Venice, CA 90291  
+310-399-0711  
 [rosecafevenice.com](http://rosecafevenice.com/)
