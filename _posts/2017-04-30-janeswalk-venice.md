@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jane's Walk Venice Beach, CA"
+title:  "Jane's Walk: Venice Beach, CA"
 date:   2017-04-30 9:00:00
 categories: social-practice
 image:
