@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jane's Walk New Taipei"
+title:  "Jane's Walk: New Taipei, CA"
 date:   2017-04-23 1:00:00
 categories: social-practice
 image:
