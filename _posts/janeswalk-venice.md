@@ -97,7 +97,7 @@ Venice, CA 90291
 *My students [Rachel Palmer](https://rachelpalmerart.wordpress.com/2017/03/25/wk-9-art-experience-graffiti-painting/) and [Maria Romo](https://marijoseromo.wordpress.com/2017/03/26/week-9-art-experience-grafitti-writing/) with their 1st ever attempt at graffiti writing at the Venice Beach Art Walls.*
 
 ![](../_images/venice/Jane-Venice-007.JPG)
-*Small World Books (I love their zine rack!)*
+*Small World Books (I love the zine rack!)*
 
 ![](../_images/venice/Jane-Venice-012.JPG)
 *Doing tricks at the skate park*
