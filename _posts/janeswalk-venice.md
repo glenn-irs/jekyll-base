@@ -11,13 +11,10 @@ image:
 
 
 
-**What:** *Jane's Walk, Venice Beach*   
-
-**When:** *Saturday 6 May '17*  
-
-**Where:** *Starts at LA Louvre Gallery*  
-
-**Starts:** *In the gallery at 10:00am*  
+**What:** *Jane's Walk, Venice Beach*     
+**When:** *Saturday 6 May '17*    
+**Where:** *Starts at LA Louvre Gallery*    
+**Starts:** *In the gallery at 10:00am*    
 
 ## Share Your Stories
 
