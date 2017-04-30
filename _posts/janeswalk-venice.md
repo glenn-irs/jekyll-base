@@ -87,7 +87,11 @@ Venice, CA 90291
 
 ![](../_images/venice/Jane-Venice-006.JPG)
 
+![](../_images/venice/Jane-Venice-011.JPG)
+
 ![](../_images/venice/Jane-Venice-007.JPG)
+
+![](../_images/venice/Jane-Venice-012.JPG)
 
 ![](../_images/venice/Jane-Venice-008.JPG)
 
@@ -95,9 +99,9 @@ Venice, CA 90291
 
 ![](../_images/venice/Jane-Venice-010.JPG)
 
-![](../_images/venice/Jane-Venice-011.JPG)
 
-![](../_images/venice/Jane-Venice-012.JPG)
+
+
 
 ![](../_images/venice/Jane-Venice-013.JPG)
 
