@@ -39,6 +39,7 @@ I'll be "leading" this walk, but I'm hardly an expert on this rich, historical L
 - [Jane's Walk: Venice, CA - Sat 6 May '17 - Facebook Event Page](https://www.facebook.com/events/780295735512234/)
 - [Jane's Walk: New Taipei, CA - Sun 7 May '17 - Details](http://jekyll.zucman.com/social-practice/2017/04/23/janeswalk-new-taipei.html)
 - [Jane's Walk: New Taipei, CA - Sun 7 May '17 - Facebook Event Page](https://www.facebook.com/events/481980225466551/)
+- [About Glenn](http://glenn.zucman.com)
 
 
 
