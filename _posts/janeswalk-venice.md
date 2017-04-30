@@ -75,7 +75,7 @@ Venice, CA 90291
 310-399-0711  
 [rosecafevenice.com](http://rosecafevenice.com/)
 
-![](Jane-Venice-001.JPG)
+![](../_images/venice/Jane-Venice-001.JPG)
 
 ![](Jane-Venice-002.JPG)
 
