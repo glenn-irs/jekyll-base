@@ -12,16 +12,20 @@ image:
 
 ## Walking New Taipei
 **What:** *Jane's Walk, New Taipei, CA*     
-**When:** *Saturday 6 May '17, 9a - 1p*    
+**When:** *Sunday 7 May '17, 10a - 2p*    
 **Where:** *Valley Blvd in New Taipei (Rosemead - San Gabriel)*    
 **Schedule:**  
 
-* **9-10am** *Optional Dim Sum Breakfast @ 888 Seafood*
-* **10-11am** *Walk down Valley Blvd from 888 Seafood to Bake Code*
-* **11-Noon** *Optional afternoon tea, coffee, boba, pastries & conversation @Bake Code*
-* **Noon-1pm** *Walk back on the other side of the street from Bake Code to 888 Seafood*
+* **10-11am** *Optional Dim Sum Breakfast @ 888 Seafood*
+* **11-Noon** *Walk down Valley Blvd from 888 Seafood to Bake Code*
+* **Noon-1pm** *Optional afternoon tea, coffee, boba, pastries & conversation @Bake Code*
+* **1-2pm** *Walk back on the other side of the street from Bake Code to 888 Seafood*
 
 Join in for all or any part of the walk you like. I'll carry a **"Jane's Walk"** sign!
+
+## Share Your Stories
+
+I'll be "leading" this walk, but I'm hardly an expert on this rich, historical LA treasure. Please chime in with any information and stories you can share.
 
 ## Jane's Walk LA Links
 
@@ -54,7 +58,7 @@ Like all Jane's Walks, this *Jane's Walk New Taipei* is completely free and open
 
 If anyone wants to try something along the way we can stop and try. Our two official stops are *dim sum breakfast* at the East End of New Taipei at **888 Seafood** and *boba & pastries* for a mid-day walking snack at **Bake Code** on the West End of New Taipei.
 
-If you want to have breakfast, meet at 888 Seafood at 9am. If you want to just walk, meet at 888 Seafood at 10am.
+If you want to have breakfast, meet at 888 Seafood at 10am. If you want to just walk, meet at 888 Seafood at 11am.
 
 
 
