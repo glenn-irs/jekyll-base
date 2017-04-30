@@ -9,6 +9,9 @@ image:
 
 >  Italy meets Cony Island… only in Los Angeles!
 
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-019.JPG)
+*The Rose*
+
 ## Walking Venice
 **What:** *Jane's Walk, Venice Beach*     
 **When:** *Saturday 6 May '17*    
@@ -24,8 +27,8 @@ I'll be "leading" this walk, but I'm hardly an expert on this rich, historical L
 * [About Jane's Walk](http://agentof.ch/aos/janes-walk-los-angeles-2017/)  
 * [Jane's Walks in Los Angeles](http://janeswalk.org/united-states/los-angeles/)  
 * [Jane's Walk LA on Facebook](https://www.facebook.com/janeswalkla/)
-* [Jane's Walk: New Taipei, CA](http://jekyll.zucman.com/social/practice/2017/04/23/janeswalk-new-taipei.html)
-* [Jane's Walk: Venice, CA](http://jekyll.zucman.com/social/practice/2017/04/30/janeswalk-venice.html)
+* [Jane's Walk: New Taipei, CA](http://jekyll.zucman.com/social-practice/2017/04/23/janeswalk-new-taipei.html)
+* [Jane's Walk: Venice, CA](http://jekyll.zucman.com/social-practice/2017/04/30/janeswalk-venice.html)
 
 
 
@@ -136,8 +139,7 @@ Venice, CA 90291
 ![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-018.JPG)
 *Jonathan Borofsky's **Ballerina Clown** on the CVS at Main & Rose*
 
-![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-019.JPG)
-*The Rose*
+
 
 ![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/venice/Jane-Venice-020.JPG)
 *Hello Barcycle!*
