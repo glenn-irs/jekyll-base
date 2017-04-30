@@ -91,7 +91,7 @@ Venice, CA 90291
 *Lots of restrooms... but you might have to wait in line for a while...*
 
 ![](../_images/venice/Jane-Venice-006.JPG)
-*You can't miss the large Mark di Suvero sclpture on the beach... but if you need any help finding it... just follow the girl with the tail...*
+*You can't miss the large Mark di Suvero sculpture on the beach... but if you need any help finding it... just follow the girl with the tail...*
 
 ![](../_images/venice/Jane-Venice-011.JPG)
 *My students [Rachel Palmer](https://rachelpalmerart.wordpress.com/2017/03/25/wk-9-art-experience-graffiti-painting/) and [Maria Romo](https://marijoseromo.wordpress.com/2017/03/26/week-9-art-experience-grafitti-writing/) with their 1st ever attempt at graffiti writing at the Venice Beach Art Walls.*
