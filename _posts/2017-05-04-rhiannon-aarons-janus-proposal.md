@@ -21,6 +21,7 @@ For *Pissed Off* I propose to discover the truth within ourselves by creating a 
 
 ## Links
 
+* [CV](http://glenn.zucman.com/cv/)
 * [2008 automatic drawing folio with Lee Tuyet Le](http://glenn.zucman.com/automatic-drawing/)
 * [Essay about *Automatic Drawing*](http://agentof.ch/aos/concerning-the-spiritual-in-art/)
 
