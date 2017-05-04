@@ -13,7 +13,7 @@ image:
 
 **Proposal:** *The Janus Drawing Folio*
 
-On 8 November 2016 *The Confederacy* rewaged, and won, *The Civil War.* The racism that this nation has spent two centuries denying is now American federal policy. Some of us are disillusioned. Frustrated. Lost.
+On 8 November 2016 *The Confederacy* rewaged, and won, *The Civil War.* The chauvinisms that this nation has spent two centuries denying are now American federal policy. Some of us are disillusioned. Frustrated. Lost.
 
 Consciously we make logical arguments in an effort to understand. We strain to apply logic to lunacy. Our minds are vast. But our consciousness only accesses a small part of all that we are. Our deep brain knows more than we can access. Our old, ancient, mammalian brain holds our deepest emotions. The brain stem. The basal ganglia. We confer with psychics, psychologists, and priests to discover the truth within ourselves.
 
