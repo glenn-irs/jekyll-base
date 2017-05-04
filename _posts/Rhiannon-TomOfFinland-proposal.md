@@ -9,7 +9,7 @@ image:
 
 **Exhibition:** *Pissed Off!* An anti-Trump Fundraiser at Tom of Finland House
 
-**Date:** Saturday, May 27th
+**Date:** Saturday 27 May 2017
 
 **Proposal:** *The Janus Drawing Folio*
 
