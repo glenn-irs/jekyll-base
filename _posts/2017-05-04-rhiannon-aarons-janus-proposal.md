@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*Janus Drawing Folio*, proposal for *Pissed Off* curated by Rhiannon Aarons"
+title:  "Janus Drawing Folio, proposal for Pissed Off, curated by Rhiannon Aarons"
 date:   2017-05-04 12:00:00
 categories: social-practice
 image:
