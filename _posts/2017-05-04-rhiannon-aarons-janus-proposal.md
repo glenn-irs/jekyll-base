@@ -27,8 +27,11 @@ For *Pissed Off* I propose to discover the truth within ourselves by creating a 
 
 ## Images
 
-![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/autodraw/AutoDraw-GZ-LTL-06-080324a.JPG)
+![*Automatic Drawing #6,* 24 March 2008, conte crayon on paper, 22x30", Lee Tuyet Le & Glenn Zucman](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/autodraw/AutoDraw-GZ-LTL-06-080324a.JPG)  
+*Automatic Drawing #6,* 24 March 2008, conte crayon on paper, 22x30", Lee Tuyet Le & Glenn Zucman
 
-![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/autodraw/AutoDraw-GZ-LTL-08-080405b.JPG)
+![*Automatic Drawing #8,* 5 April 2008, conte crayon on paper, 22x30", Lee Tuyet Le & Glenn Zucman](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/autodraw/AutoDraw-GZ-LTL-08-080405b.JPG)  
+*Automatic Drawing #8,* 5 April 2008, conte crayon on paper, 22x30", Lee Tuyet Le & Glenn Zucman
 
-![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/autodraw/AutoDraw-GZ-LTL-09-080405c.JPG)
+![*Automatic Drawing #9,* 5 April 2008, conte crayon on paper, 30x22", Lee Tuyet Le & Glenn Zucman](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/autodraw/AutoDraw-GZ-LTL-09-080405c.JPG)  
+*Automatic Drawing #9,* 5 April 2008, conte crayon on paper, 30x22", Lee Tuyet Le & Glenn Zucman
