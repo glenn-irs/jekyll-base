@@ -26,3 +26,7 @@ image:
 ## Tools
 
 * [Homebrew](https://brew.sh/)
+
+## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oiNVQ9Zjy4o?list=PLWjCJDeWfDdfVEcLGAfdJn_HXyM4Y7_k-" frameborder="0" allowfullscreen></iframe>
