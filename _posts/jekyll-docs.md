@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Jekyll Docs"
+date:   2017-05-07 17:00:00
+categories: tech
+image:
+  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/autodraw/AutoDraw-GZ-LTL-06-080324a.JPG
+---
+
 ## Jekyll Docs
 
 * [jekyllrb.com/docs/usage](https://jekyllrb.com/docs/usage/)
