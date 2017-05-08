@@ -22,3 +22,7 @@ image:
 ## Netlify Help
 
 * [gitter.im/netlify/community](https://gitter.im/netlify/community)
+
+## Tools
+
+* [Homebrew](https://brew.sh/)
