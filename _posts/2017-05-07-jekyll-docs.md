@@ -16,7 +16,7 @@ image:
 
 ## Themes
 
-* [https://www.quora.com/How-do-you-install-a-jekyll-theme](quora.com/How-do-you-install-a-jekyll-theme)
+* [quora.com/How-do-you-install-a-jekyll-theme](https://www.quora.com/How-do-you-install-a-jekyll-theme)
 * [webdesign.tutsplus.com/tutorials/how-to-set-up-a-jekyll-theme](https://webdesign.tutsplus.com/tutorials/how-to-set-up-a-jekyll-theme--cms-26332)
 
 ## Netlify Help
