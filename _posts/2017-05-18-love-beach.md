@@ -19,7 +19,7 @@ Yet at core, we want the same things. We all want clean air to breathe and good 
 
 I invite you to take Saturday 17 July '17, 3 days before solstice, as a day to set differences aside and remind ourselves that life on this earth is about love. 
 
-> I invite you to print a photo of yourself, print the words *I love you* on it, bring it to the beach, and plant it in the sand.
+> I invite you to print a photo of yourself, print the words "I love you" on it, bring it to the beach, and plant it in the sand.
 
 If you are in the Los Angeles vicinity, you're invited to come to the *Venice Beach Art Walls* anytime between 10am and 7pm to plant your photo in the sand at *Love Beach.* 
 
