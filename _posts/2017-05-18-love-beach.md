@@ -4,10 +4,10 @@ title:  "Love Beach"
 date:   2017-05-18 12:00:00
 categories: public
 image:
-  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/love-beach.png
+  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/love-beach.jpg
 ---
 
-![Love Beach: "I heart" in the sand at the surf](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/love-beach.png)
+![Love Beach: "I heart" in the sand at the surf](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/love-beach.jpg)
 
 # Love Beach
 
