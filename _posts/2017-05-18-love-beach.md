@@ -2,7 +2,7 @@
 layout: post
 title:  "Love Beach"
 date:   2017-05-18 12:00:00
-categories: public
+categories: public-art
 image:
   feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/love-beach.jpg
 ---
