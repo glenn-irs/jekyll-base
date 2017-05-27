@@ -22,6 +22,6 @@ Here in it's awkward glory, but good results, is my *transferrus interruptus* pr
 
 ## Kludgy, but...
 
-**Importing, deleting & Re-Importing** is obviously a little kludgy! But it's the only sequence of steps I've found that gets the job done. Every other sequence either leaves you with *No featured images,* or with *Broken image links in the bodies of your posts.* With my strange sequence everything comes out clean.
+**Importing, deleting & Re-Importing** is obviously a little kludgy! But it's the only sequence of steps I've found that gets the job done. Every other sequence either leaves you with *No featured images,* or with *Broken image links* in the bodies of your posts. With my strange sequence everything comes out clean.
 
 If you know why this works, or is necessary, or what the less kludgy process that still yields clean results is, by all means, shout in the comments below!
