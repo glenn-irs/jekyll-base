@@ -1,4 +1,11 @@
-Exporting & Importing WordPress
+---
+layout: post
+title:  "Exporting & Importing WordPress"
+date:   2017-05-28 12:00:00
+categories: tech
+image:
+  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/love-beach.jpg
+---
 
 ## Easy?
 
