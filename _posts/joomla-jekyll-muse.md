@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Joomla, Jekyll & Muse"
+date:   2017-05-31 09:00:00
+categories: platforms
+image:
+  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/love-beach.jpg
+---
+
 ## My Big Summer Project
 
 No, I'm not planning to become the principal ballerina for the Australian Ballet. I don't even plan to tower over this project with commanding power and grace. But I do hope to learn a bit about 3 platforms that are new to me:
