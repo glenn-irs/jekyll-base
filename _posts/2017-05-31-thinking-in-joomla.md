@@ -27,4 +27,8 @@ WordPress started as a blogging platform and blossomed into a powerful & popular
 
 When you're used to WordPress *doing it for you* with Blog View, Category View & Archive View, Joomla can be confusing and seem like more work. But getting through those steps feels like it's helping me understand and visualize different ways of organizing and presenting content.
 
+---
+
+I started this post on 11 May ‘17 on beacharts.ca/summer, my 1st Joomla site. Now on 31 May ‘17 I’m moving & expanding the draft here to jekyll.zucman.com which is more of a development & documentation site, so that beacharts.ca/summer can focus on facilitating my summer Art 110 online course. 
+
 ![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Paulina%20leaping%20in%20blue%20on%20dock%20by%20Jason%20Lavengood-2016.jpg)
