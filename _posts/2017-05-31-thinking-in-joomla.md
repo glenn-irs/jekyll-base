@@ -8,6 +8,7 @@ image:
 ---
 ![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Johanna%20Sigurdardottir%20Missing%20the%20Cup%20by%20Jordan%20Matter-2016.jpg)
 
+## Thinking in Joomla
 I'm not sure I'm capable of writing this article ATM, since I'm only starting to *Think in Joomla,* but it is interesting to realize that it's a somewhat different cognitive space than WordPress was. I've spent a half-dozen years now mostly working in WordPress. It's fantastic. A couple weeks ago I decided to try making a Joomla site. It's frustrating because it seems to work *similarly* to WordPress, but different. The differences begin mostly as frustrations because you can't, or don't know how, to do what you want. But slowly as you begin to make sense of how **Modules, Menus** and other aspects of Joomla work, you start to move from frustration to empowerment. 
 
 But more than empowerment, the differences between Joomla & familiar WordPress seem to be invitations or opportunities to think differently about how you organize and present content.
