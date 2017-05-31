@@ -4,7 +4,7 @@ title:  "No Spellcheck in Jekyll?"
 date:   2017-04-22 08:00:00
 categories: tech
 image:
-  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/Laundry%20by%20Francesco%20De%20Laurentiis.jpg
+  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Laundry%20by%20Francesco%20De%20Laurentiis.jpg
 ---
 
 This is me typing in Jekyll. 
@@ -30,5 +30,5 @@ Just as I was starting to get used to typing in GitHub/Markdown, it seems like I
 
 > It's always something!
 
-![a ballerina in a laundromat](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/Laundry%20by%20Francesco%20De%20Laurentiis.jpg)
+![a ballerina in a laundromat](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Laundry%20by%20Francesco%20De%20Laurentiis.jpg)
 *Laundry, by Francesco De Laurentiis*
