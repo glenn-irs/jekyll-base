@@ -4,7 +4,7 @@ title:  "Joomla, Jekyll & Muse"
 date:   2017-05-31 09:00:00
 categories: platforms
 image:
-  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/love-beach.jpg
+  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/A%20Redhead%20does%20the%20Flour%20Dancy%20by%20Jeff%20Spencer-2016.jpg
 ---
 
 ## My Big Summer Project
