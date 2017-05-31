@@ -42,7 +42,7 @@ https://typora.io
 
 
 
-![silly dance scene of a ballerina trying to wait tables](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/Johanna%20Sigurdardottir%20Missing%20the%20Cup%20by%20Jordan%20Matter-2016.jpg)
+![silly dance scene of a ballerina trying to wait tables](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Johanna%20Sigurdardottir%20Missing%20the%20Cup%20by%20Jordan%20Matter-2016.jpg)
 
 
 
