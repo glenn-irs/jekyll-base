@@ -6,7 +6,7 @@ categories: platforms
 image:
   feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/A%20Redhead%20does%20the%20Flour%20Dancy%20by%20Jeff%20Spencer-2016.jpg
 ---
-
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Campaign%20for%20The%20Australian%20Ballet%2C%202015%20by%20Ren%20Pidgeon.jpg)
 ## My Big Summer Project
 
 No, I'm not planning to become the principal ballerina for the Australian Ballet. I don't even plan to tower over this project with commanding power and grace. But I do hope to learn a bit about 3 platforms that are new to me:
@@ -34,7 +34,7 @@ Curious thing, all (WordPress, Joomla, Drupal) of the major PHP-based CMS don't 
 
 I guess the ID reference is promising if you do want to do things like blogs. But in my 1st 5 minutes, it seems like *Illustrator for the Web.* Very promising for creative layouts and art projects.
 
-![frontends compared a pade of Jekyll in a window next to a page of Joomla](images/CSS-Jekyll-Joomla.png)
+![frontends compared a page of Jekyll in a window next to a page of Joomla](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/platforms/CSS-Jekyll-Joomla.png)
 *Jekyll Minima theme on the left, Joomla Responsive Portfolio template on the right. Different themes/templates offer completely different **Frontend Experiences,** but really, that's all about CSS, and perhaps Javascript, and not so much about Jekyll or Joomla, WordPress or Ghost. (open image in new tab to see larger and compare)*
 
 ## CSS & MySQL
@@ -51,4 +51,4 @@ I could add them to this summer list, but that might be too many items, and summ
 ## Wish me luck!
 So there's the summer '17 project: Joomla, Jekyll & Muse. I hope I create some cool things by August. Wish me luck!
 
-![](http://beacharts.ca/summer/images/dance/Photo-Essay-of-Dominyka-by-Sarune-Zurba-01.jpg)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Carla%20Korbes%20holding%20knees%20by%20Angela%20Sterling-2011.jpg)
