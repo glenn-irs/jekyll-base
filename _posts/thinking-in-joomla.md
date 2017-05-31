@@ -19,6 +19,11 @@ But more than empowerment, the differences between Joomla & familiar WordPress s
 
 Note that this all feeds through **Theme Flexibility** (can use multiple, customize by menu item)
 
-Is **Activities** vs **Optional Meetups** really a different way of thinking? You could have done the same in WP! **But.** Joomla plus this nice theme seem to invite you to think or organize this way, and the theme layout can customize for each item. Ultimately I think it's part the flexibility of Joomla, part the value of this very simple, very visual template, and part just that being a bit disoriented is also an invitation to think about what you're organizing and how you're presenting it.
+Is [**Activities**](http://beacharts.ca/summer/activities) vs [**Optional Meetups**](http://beacharts.ca/summer/optional-meetups) really a different way of thinking? You could have done the same in WP! **But.** Joomla plus this nice theme seem to invite you to think or organize this way, and the theme layout can customize for each item. Ultimately I think it's part the flexibility of Joomla, part the value of this very simple, very visual template, and part just that being a bit disoriented is also an invitation to think about what you're organizing and how you're presenting it.
+
+## Of Blogs & CMS'
+WordPress started as a blogging platform and blossomed into a powerful & popular CMS. But there still is a blog sort of LIFO sensibility to WordPress. Joomla has that *Blog LIFOfulness* too. But I feel like the way Joomla Menus & Modules interact to build output views is more empowering, less LIFO, and puts you more in the seat of *managing content* or organizing its presentation. 
+
+When you're used to WordPress *doing it for you* with Blog View, Category View & Archive View, Joomla can be confusing and seem like more work. But getting through those steps feels like it's helping me understand and visualize different ways of organizing and presenting content.
 
 ![](http://beacharts.ca/summer/images/dance/Paulina-leaping-in-blue-on-dock-by-Jason-Lavengood-2016.jpg)
