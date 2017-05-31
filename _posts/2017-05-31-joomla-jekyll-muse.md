@@ -7,13 +7,13 @@ image:
   feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/A%20Redhead%20does%20the%20Flour%20Dancy%20by%20Jeff%20Spencer-2016.jpg
 ---
 ![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Campaign%20for%20The%20Australian%20Ballet%2C%202015%20by%20Ren%20Pidgeon.jpg)
-## My Big Summer Project
 
+## My Big Summer Project
 No, I'm not planning to become the principal ballerina for the Australian Ballet. I don't even plan to tower over this project with commanding power and grace. But I do hope to learn a bit about 3 platforms that are new to me:
 
-*   Joomla
-*   Jekyll
-*   Muse
+*   [Joomla](https://www.joomla.org/)
+*   [Jekyll](https://jekyllrb.com/)
+*   [Muse](http://muse.adobe.com/)
 
 ## Joomla
 There's love & hate for Joomla all over the web, just like WordPress or Drupal. The love version goes something like
@@ -50,5 +50,9 @@ I could add them to this summer list, but that might be too many items, and summ
 
 ## Wish me luck!
 So there's the summer '17 project: Joomla, Jekyll & Muse. I hope I create some cool things by August. Wish me luck!
+
+---
+
+*This post was originally published on 26 April '17 on beacharts.ca/summer, my 1st Joomla site. Now on 31 May '17 I'm moving the post here to jekyll.zucman.com which is more of a development & documentation site, so that beacharts.ca/summer can focus on facilitating my summer Art 110 online course.*
 
 ![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Carla%20Korbes%20holding%20knees%20by%20Angela%20Sterling-2011.jpg)
