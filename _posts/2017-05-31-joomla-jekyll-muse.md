@@ -7,8 +7,8 @@ image:
   feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/A%20Redhead%20does%20the%20Flour%20Dancy%20by%20Jeff%20Spencer-2016.jpg
 ---
 ![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Campaign%20for%20The%20Australian%20Ballet%2C%202015%20by%20Ren%20Pidgeon.jpg)
-
-## My Big Summer Project
+  
+## My Big Summer Project  
 No, I'm not planning to become the principal ballerina for the Australian Ballet. I don't even plan to tower over this project with commanding power and grace. But I do hope to learn a bit about 3 platforms that are new to me:
 
 *   [Joomla](https://www.joomla.org/)
