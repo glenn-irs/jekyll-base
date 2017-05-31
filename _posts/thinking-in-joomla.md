@@ -4,8 +4,9 @@ title:  "Thinking in Joomla"
 date:   2017-05-31 09:30:00
 categories: platforms
 image:
-  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/A%20Redhead%20does%20the%20Flour%20Dancy%20by%20Jeff%20Spencer-2016.jpg
+  feature: https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Disastrous%20Marriage%20of%20Tchaikovsky%20with%20Eifman%20by%20Natalia%20Voronova-2017.jpg
 ---
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Johanna%20Sigurdardottir%20Missing%20the%20Cup%20by%20Jordan%20Matter-2016.jpg)
 
 I'm not sure I'm capable of writing this article ATM, since I'm only starting to *Think in Joomla,* but it is interesting to realize that it's a somewhat different cognitive space than WordPress was. I've spent a half-dozen years now mostly working in WordPress. It's fantastic. A couple weeks ago I decided to try making a Joomla site. It's frustrating because it seems to work *similarly* to WordPress, but different. The differences begin mostly as frustrations because you can't, or don't know how, to do what you want. But slowly as you begin to make sense of how **Modules, Menus** and other aspects of Joomla work, you start to move from frustration to empowerment. 
 
@@ -26,4 +27,4 @@ WordPress started as a blogging platform and blossomed into a powerful & popular
 
 When you're used to WordPress *doing it for you* with Blog View, Category View & Archive View, Joomla can be confusing and seem like more work. But getting through those steps feels like it's helping me understand and visualize different ways of organizing and presenting content.
 
-![](http://beacharts.ca/summer/images/dance/Paulina-leaping-in-blue-on-dock-by-Jason-Lavengood-2016.jpg)
+![](https://raw.githubusercontent.com/glenn-irs/jekyll-base/master/_images/dance/Paulina%20leaping%20in%20blue%20on%20dock%20by%20Jason%20Lavengood-2016.jpg)
