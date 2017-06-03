@@ -28,6 +28,13 @@ WordPress started as a blogging platform and blossomed into a powerful & popular
 
 When you're used to WordPress *doing it for you* with Blog View, Category View & Archive View, Joomla can be confusing and seem like more work. But getting through those steps feels like it's helping me understand and visualize different ways of organizing and presenting content.
 
+## More Logic, Less LIFO
+WordPress is very LIFO. Yes, you can slice content up by Categories, Tags, Custom Post Types, and more, but at heart WordPress is very LIFO. That's not a bad thing. But it s a thing.
+
+Joomla gives you many choices beyond LIFO for pouring content into a module. FIFO for starters, but also by Alpha, Reversa Alpha, by Author, by Hits, by Votes, by Ratings. On any given occasion these choices might be powerful, but simply by existing they encourage me to think about content in other than LIFO ways. There's nothing bad about WordPress' blog heritage, but Joomla is thinking differently.
+
+By being able to load different content, ordered in different ways, into different modules, or even to display it with a different template or different parameters on the same template, I find myself starting to *Think in Joomla.* I'm thinking more about structuring the presentation of content. I did do this before in WordPress too, it is not night and day, but it does feel a bit different. A bit of new empowerment.
+
 ---
 
 I started this post on 11 May ‘17 on beacharts.ca/summer, my 1st Joomla site. Now on 31 May ‘17 I’m moving & expanding the draft here to jekyll.zucman.com which is more of a development & documentation site, so that beacharts.ca/summer can focus on facilitating my summer Art 110 online course. 
